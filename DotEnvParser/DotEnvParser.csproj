@@ -12,7 +12,7 @@
     <PackageLicenseUrl>https://github.com/diegobfernandez/DotEnvParser/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/diegobfernandez/DotEnvParser</PackageProjectUrl>
     <RepositoryUrl>https://github.com/diegobfernandez/DotEnvParser</RepositoryUrl>
-    <Version>1.0.0-beta</Version>
+    <Version>1.0.0-beta2</Version>
   </PropertyGroup>
 
 </Project>
