@@ -1,7 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
+    <Authors>Diego B. Fernandez</Authors>
+    <Company />
+    <Product />
+    <Description>A package to help parsing and injecting .env file into environment variables.</Description>
+    <PackageTags>envvar dotenv twelve-factor-app</PackageTags>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/diegobfernandez/DotEnvParser/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/diegobfernandez/DotEnvParser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/diegobfernandez/DotEnvParser</RepositoryUrl>
+    <Version>1.0.0-beta</Version>
   </PropertyGroup>
 
 </Project>
